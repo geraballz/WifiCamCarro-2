@@ -7,7 +7,7 @@ This is for ESP-01
 https://www.facebook.com/profile.php?id=61575340224057
 
 # Repositories related #
-- https://github.com/geraballz/WifiCamCarro-1
+- https://github.com/geraballz/geraballz-WifiCamCarro-1
 - https://github.com/geraballz/WifiCamCarro-2
 - https://github.com/geraballz/WifiCamCarro-3
 
